@@ -1,6 +1,5 @@
 var keys = require("./../keys.js");
 const twitter = require("twitter");
-const request = require("request");
 const moment = require("moment");
 
 var client = new twitter({
