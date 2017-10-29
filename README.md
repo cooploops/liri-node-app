@@ -1,7 +1,7 @@
 # liri-node-app
 
-## Live Link (Hosted on GitHub as a static site)
- - cooploops.github.io/liri-node-app
+## Hosted on GitHub
+ - https://github.com/cooploops/liri-node-app
 
 ## Description on how to use the app
 
